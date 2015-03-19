@@ -1,4 +1,5 @@
-My Awesome Book
+Natural Language Processing
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Notes from Columbia University "COMS 4705: Natural Language Processing"
+
