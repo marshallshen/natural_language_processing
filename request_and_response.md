@@ -20,6 +20,11 @@
 
 \[details here\]
 
+#### Restrictions (min, max, format, etc.) should always be documented where applicable
+
+\[details here\]
+
 #### On a 404, no response body should be returned.
 
 \[details here\]
+
