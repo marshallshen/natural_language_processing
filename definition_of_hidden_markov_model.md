@@ -1,2 +1,4 @@
-# definition of hidden markov model
+# Defintion of Hidden Markov Model
+
+### Observed Events vs. Hidden Events
 
