@@ -12,4 +12,3 @@ HMM is a **Markov chain**, **Markov chain** is a **probablistic graphical model*
 ![markov_chain_model](Screenshot 2015-03-22 10.51.26.png)
 
 
-
