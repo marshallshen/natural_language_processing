@@ -1,8 +1,8 @@
 # Word Sense Disambiguation
 
-### What is word sense ambiguity?
+## What is word sense ambiguity?
 
-#### Polysemy: words have multiple senses
+### Polysemy: words have multiple senses
 
 Ex. Bar
 
@@ -10,7 +10,7 @@ Let's have a drink in the **bar**.
 
 I have to study for the **bar**.
 
-#### Homonymy: different words share the same spelling
+### Homonymy: different words share the same spelling
 
 Ex. May
 
@@ -23,6 +23,7 @@ Let's meet again in **May**.
 Joe won **the first round**.
 
 Joe has a **round** toy.
+
 
 ### What is the goal of **word sense disambiguation**?
 
