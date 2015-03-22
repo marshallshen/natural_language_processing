@@ -1,5 +1,8 @@
 # Word Sense Disambiguation
 
+## Relevant Reading
+[Word Sense Disambiguation: A Survey](http://www.cse.unt.edu/~tarau/teaching/NLP/papers/ACM_Survey_2009_Navigli.pdf)
+
 ## What is word sense ambiguity?
 
 ### Polysemy: words have multiple senses
