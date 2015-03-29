@@ -23,4 +23,4 @@
     - Factual vs. Procedural
     - Single vs. Multiple Answers
     - Objective vs. Subjective
-    - Context-specific vs. generic
+    - Context-specific vs. Generic
