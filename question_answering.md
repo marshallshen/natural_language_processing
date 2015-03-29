@@ -20,7 +20,13 @@
 - AOL Corpus Questions
 
 ## Question Type Taxonomy
+
     - Factual vs. Procedural
     - Single vs. Multiple Answers
     - Objective vs. Subjective
     - Context-specific vs. Generic
+    
+## State of the Art
+
+    - Question type: mostly factual, short-answer questions
+    - Statistical approaches using lots of data
