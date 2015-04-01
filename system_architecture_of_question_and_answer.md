@@ -53,6 +53,7 @@ More comprehensive taxonomy of different questions types.
     * Proper nouns that match the query
     * Near each other
     * Entities that match the expected answer type
+    * Entities repeatedly showed up in different documents, it gives you more confidence.
 
 
 
