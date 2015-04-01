@@ -52,6 +52,7 @@ More comprehensive taxonomy of different questions types.
 - Features
     * Proper nouns that match the query
     * Near each other
+    * Entities that match the expected answer type
 
 
 
