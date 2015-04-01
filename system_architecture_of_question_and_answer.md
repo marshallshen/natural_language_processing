@@ -35,3 +35,16 @@ Look for **entity**, a person.
 #### UIUC Question Types
 
 More comprehensive taxonomy of different questions types.
+
+
+#### Techniques of question classification
+- classic task: SVM..
+- Regex
+
+#### Query Formulation
+
+- Determine which words to include in the IR query
+- From NL question to a SQL-like query
+
+
+
