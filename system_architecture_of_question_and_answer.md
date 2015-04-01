@@ -47,4 +47,11 @@ More comprehensive taxonomy of different questions types.
 - From NL question to a SQL-like query
 
 
+#### Passage Retrieval
+
+- Features
+    * Proper nouns that match the query
+    * Near each other
+
+
 
