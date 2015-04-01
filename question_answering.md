@@ -45,6 +45,17 @@
     - Run by NIST
     - Facts extraction to analyze accuracy
     
+### MRR: Mean Reciprocal Rank
+    - Pass in 5 passages for each answer, and verify the correctness of the answer
+    - If one passage has wrong answer, it has lower score.
+    - The MRR is an average formula over all results of 5 pssages.
+    
+
+
+
+
+
+    
 
 
 
