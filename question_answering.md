@@ -39,9 +39,12 @@
 #### Lunar
 
     - Lunar Sciences Natural Language Information System.
+    - Lunar Grammar Fragment: classify questions
 
 ### How to evaluate Q&A question
     - Run by NIST
     - Facts extraction to analyze accuracy
+    
+
 
 
