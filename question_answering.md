@@ -45,10 +45,26 @@
     - Run by NIST
     - Facts extraction to analyze accuracy
     
-### MRR: Mean Reciprocal Rank
-    - Pass in 5 passages for each answer, and verify the correctness of the answer
-    - If one passage has wrong answer, it has lower score.
-    - The MRR is an average formula over all results of 5 pssages.
+### MRR: Mean Reciprocal Rank (ex. Watson came up different passages, ordered by descending probability)
+
+- Pass in 5 passages for each answer, and verify the correctness of the answer
+> What is the capital of Canada?
+    1. New York 2. Ottawa... (highest rank is 2)
+- If one passage has wrong answer, it has lower score.
+- The MRR is an average formula over all results of 5 pssages.
+
+### Other types of questions
+
+Definitional:
+    - What is a boll weevil
+List:
+    - Which stats signed the Independence
+Crosslingual:
+    - What is "ni hao"?
+Series Questions:
+    - Who is the lead singer in Nirvana?
+    - What are the members of the band? (band is Nirvana)
+
     
 
 
